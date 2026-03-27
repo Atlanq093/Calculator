@@ -24,7 +24,8 @@ body{
     padding: 15px;
     width: 100%;
     font-size:4rem;
-    text-align: center;
+    text-align: left;
+    color:white;
     border:none;
     background-color:hsl(350, 42%, 70%);
 }
