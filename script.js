@@ -20,5 +20,5 @@ function calculate(){
 
 
  function appendToClear() {
-   display.value=" "
+   display.value=""
 }
